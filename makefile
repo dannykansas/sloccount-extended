@@ -119,8 +119,10 @@ EXECUTABLES= \
    sql_count \
    tcl_count \
    js_count \
-   css_count \
+   html_count \
    xml_count \
+   css_count \
+   scss_count \
    $(COMPILED_EXECUTABLES)
 
 MANPAGES=sloccount.1.gz
